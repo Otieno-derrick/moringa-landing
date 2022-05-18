@@ -1,0 +1,196 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    /* box-sizing: border-box; */
+    /* align-items: center; */
+}
+
+.navbar-container{
+     /* background-color: orangered; */
+     display: flex;
+     justify-content: space-between;
+
+
+}
+
+li {
+   list-style: none;
+}
+
+a {
+ text-decoration: none;
+}
+
+.menu-items{
+    float: right;
+    padding-bottom: 50px;
+    padding-right: 50px;
+
+
+}
+
+.list-items li{
+   padding-left: 15px;
+   padding-bottom: 7px;
+   margin-bottom: 30px;
+   margin-top: 30px;
+   margin-right: 0px;
+   padding-right: 50px;
+
+
+}
+
+
+.moringa{
+    color: #EC4067;
+    padding-left: 70px;
+    padding-top: 50px;
+    font-size: 30px;
+
+}
+
+.moringa h1{
+    margin: 0px;
+    padding-left: 0px;
+}
+
+
+.list-items{
+    display: flex;
+    gap: 1em;
+    font-size: 18px;
+}
+.l{
+    font-size: 15px;
+    color: white;
+    background: #EC4067;
+    border-radius: 3px;
+
+}
+
+
+   .moringa{
+        color: #EC4067;
+        display: flex;
+        margin-left: -20px;
+        padding-right: 200px;
+        padding-bottom: 90px;
+    }
+
+    .logo1{
+        color: #EC4067
+    }
+    .logo{
+        padding-left: 10px;
+        color: black;
+    }
+
+
+    ul{
+        margin: 10px;
+    }
+
+   .bl{
+       font-size: 20px;
+       padding-left: 50px;
+       padding-top: 40px;
+   }
+  #gec{
+      display: flex;
+      justify-content: space-between;
+  }
+
+
+   #drop{
+       display: flex;
+   }
+
+   .hn{
+       padding-left: 50px;
+       color: #EC4067;
+       padding-top: 40px;
+   }
+
+    .m{
+        color: #ffff;
+        background-color: #EC4067;
+        font-size: 15px;
+        border-radius: 1px solid #ec4067;
+    }
+  .n{
+      color: #EC4067;
+      font-size: 15px ;
+  }
+  .ivon{
+      font-size: 15px;
+      padding-left: 50px;
+      padding-top: 40px;
+
+  }
+
+     .ip{
+         font-size: 25px;
+         /* padding-left: 50px; */
+
+
+     }
+
+    .img1{
+        padding-left: 50px;
+       padding-bottom: 70px;
+       display: right;
+
+    }
+
+    #drop{
+        display: flex;
+        justify-content: space-between;
+        padding-bottom: 40px;
+
+    }
+
+    .img2{
+        /* display: flex; */
+      padding-left: 50px;
+      padding-top: 40px;
+    }
+
+    .stories{
+        padding-left: 50px;
+        padding-top: 40px;
+        font-size: 30px;
+      }
+
+      .orient{
+        font-size: 30px;
+      }
+
+      .fontw{
+          font-size: 15px;
+          padding-right: 20px;
+      }
+ 
+
+    #qaz{
+        float: right;
+    }
+
+
+    #coz{
+        display: flex;
+    }
+
+    .blo{
+        font-size: 30px;
+        /* padding-left: 20px; */
+        padding-top: 80px ;
+    }
+
+    #dov{
+        font-size: 15px;
+    }
+    
+
+    #low{
+        /* display: flex; */
+    }
