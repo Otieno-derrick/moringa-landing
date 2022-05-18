@@ -65,7 +65,7 @@ a {
     color: white;
     background: #EC4067;
     border-radius: 3px;
-
+    border-radius: 3px solid #EC4067;
 }
 
 
@@ -136,7 +136,7 @@ a {
      }
 
     .img1{
-        padding-left: 50px;
+        padding-right: 50px;
        padding-bottom: 70px;
        display: right;
 
@@ -205,4 +205,37 @@ a {
     #hm{
         font-size: 19px;
         color: #ec4067;
+    }
+
+
+    #wer{
+        font-size: 15px;
+        /* margin-left: 20px; */
+        font-weight: 100;
+    }
+
+    #ty{
+        margin-left: 50px;
+        font-weight: 100;
+        font-size: 17px;
+    }
+
+    #end{
+      padding-left: 20px;
+      padding-bottom: 200px;
+      /* font-size: 30px; */
+    }
+
+    #endin{
+        font-size: 30px;
+        color: #EC4067;
+    }
+
+    #ending{
+        font-size: 15px;
+    }
+    
+
+    #en{
+        color: #EC4067;
     }
